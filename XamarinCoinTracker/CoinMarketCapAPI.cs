@@ -8,7 +8,7 @@ namespace XamarinCoinTracker
 {
     public class CoinMarketCapAPI
     {
-        private static string API_KEY = "abfae75d-ac8c-4516-9834-851de52f3ab5";
+        private static string API_KEY = "YOUR_API_KEY";
 
   
        public static string makeAPICall()
